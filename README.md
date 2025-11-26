@@ -9,13 +9,16 @@
 • Проверка документов
 • Поиск по базам данных, открытым и закрытым источникам
 
-https://t.me/CryptoGramBots_bot
-https://t.me/rudossierru_bot
-https://t.me/ru_dossier_bot
-https://t.me/ProbivTelegramBots_bot
-https://t.me/rudossier_combot
-https://t.me/cyber_detective_bot
-https://t.me/Teletypein_bot
-https://t.me/OdysseySearch_bot
-https://t.me/Sherlock_Holmes_Private_bot
-https://t.me/AutoGiftRobot_bot
+
+# https://t.me/SherlockSearchAPI_Bot # 
+# https://t.me/OSINT_Poccuu_BOT # 
+# https://t.me/rudossierru_bot # 
+# https://t.me/ru_dossier_bot # 
+# https://t.me/ProbivTelegramBots_bot # 
+# https://t.me/rudossier_combot # 
+# https://t.me/cyber_detective_bot # 
+# https://t.me/Teletypein_bot # 
+# https://t.me/OdysseySearch_bot # 
+# https://t.me/Sherlock_Holmes_Private_bot # 
+# https://t.me/AutoGiftRobot_bot #
+
